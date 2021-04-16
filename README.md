@@ -49,3 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
 
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
