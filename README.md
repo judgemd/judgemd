@@ -42,9 +42,7 @@
 
 ---
 
-<a href="https://github.com/judgemd">
   <img align="left" height="180em" width="440px" src="https://github-readme-stats.vercel.app/api?username=judgemd&theme=blue&show_icons=true" />
   <img align="right" height="180em" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&show_icons=true)
