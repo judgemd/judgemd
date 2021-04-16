@@ -45,5 +45,5 @@
 <br>
 <br>
 
-<img align="left" alt="judgeMd GitHub Stats" src="https://github.com/judgemd/github-stats/blob/master/generated/overview.svg" />
-<img align="left" alt="judgeMd GitHub Stats" src="https://github.com/judgemd/github-stats/blob/master/generated/languages.svg"/>
+<img align="left" alt="judgemd GitHub Stats" src="https://github.com/judgemd/github-stats/blob/master/generated/overview.svg" />
+<img align="left" alt="judgemd GitHub Stats" src="https://github.com/judgemd/github-stats/blob/master/generated/languages.svg"/>
