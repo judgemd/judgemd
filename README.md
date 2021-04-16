@@ -20,4 +20,7 @@
 <img align="left" alt="judgemd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="judgemd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
+<br>
+<br>
+
 <p><img align="left" alt="judgemd's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=judgemd&show_icons=true&hide_border=true" /></p>
