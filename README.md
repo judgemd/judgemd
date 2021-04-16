@@ -23,4 +23,4 @@
 <br>
 <br>
 
-<p><img align="left" alt="judgemd's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=judgemd&show_icons=true&hide_border=true" /></p>
+<p><img align="right" alt="judgemd's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=judgemd&show_icons=true&hide_border=true" /></p>
