@@ -43,7 +43,7 @@
 ---
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judgemd&theme=blue&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
+  <img height="180em" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
    
 <br />
 <br />
