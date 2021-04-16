@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/judgemd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judgemd&theme=blue&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
 </a>
