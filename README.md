@@ -42,8 +42,8 @@
 
 ---
 
-  <img height="180em" float="left" src="https://github-readme-stats.vercel.app/api?username=judgemd&theme=blue&show_icons=true" />
-  <img height="180em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judgemd&theme=blue&show_icons=true" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
    
 <br />
 <br />
