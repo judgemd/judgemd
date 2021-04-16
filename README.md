@@ -3,6 +3,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ashraafmammadov)](https://twitter.com/ScientificGhosh/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashraf-mammadov-3ab879203/)](https://www.linkedin.com/in/sudiptoghosh99/)
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/codefilter)](https://instagram.com/codefilter)
+[![Snapchat](https://img.shields.io/badge/-judgemd-222222?style=flat-square&logo=snapchat&logoColor=white&link=judgemd)](judgemd)
 [![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ashraf.mammadov.1291)](https://www.facebook.com/ashraf.mammadov.1291)
 
 ## I'm a young man who keeps improving!!
