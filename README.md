@@ -49,7 +49,7 @@
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdugemd&show_icons=true" alt="judgemd" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=judgemd&show_icons=true" alt="judgemd" /> 
 
 </p>
 
