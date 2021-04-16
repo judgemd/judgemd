@@ -43,9 +43,7 @@
 ---
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=judgemd&theme=blue&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&theme=blue&layout=compact" />
    
-<br />
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judgemd&show_icons=true)
