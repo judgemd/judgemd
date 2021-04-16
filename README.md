@@ -1,4 +1,4 @@
-### Hi there, I'm Ashraf - aka [judgemd] 👋
+### Hi there, I'm Ashraf - aka judgemd 👋
 
 [![Website](https://img.shields.io/website?label=judgemd.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://judgemd.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashraafmammadov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashraafmammadov&screen_name=ashraafmammadov)
