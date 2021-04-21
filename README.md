@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ashraafmammadov)](https://twitter.com/ScientificGhosh/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ashraafmammadov)](https://twitter.com/ashraafmammadov)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashraf-mammadov-3ab879203/)](https://www.linkedin.com/in/ashraf-mammadov-3ab879203/)
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/codefilter)](https://instagram.com/codefilter)
 [![Snapchat](https://img.shields.io/badge/-judgemd-222222?style=flat-square&logo=snapchat&logoColor=white&link=judgemd)](judgemd)
